@@ -54,14 +54,14 @@ The Arduino Nano controls the L298N motor driver through four digital outputs. T
 ### Wiring Diagram
 
 <p align="center">
-  <img src="diagramas/diagrama_conexiones.png" alt="Wiring Diagram" width="800">
+  <img src="diagramas/DiagramaDeConexiones.jpg" alt="Wiring Diagram" width="800">
 </p>
 
 ---
 
 ## 💻 Programming
 
-The robot was programmed using the Arduino IDE and C/C++ for Arduino.
+The robotic car was programmed using the Arduino IDE and C/C++ for Arduino.
 
 The program includes independent functions for:
 
@@ -146,7 +146,7 @@ The activities allow students to:
 ### Connection Diagram
 
 <p align="center">
-  <img src="diagramas/diagrama_conexiones.png" alt="Robotic Car Connection Diagram" width="800">
+  <img src="diagramas/DiagramaDeConexiones.jpg" alt="Robotic Car Connection Diagram" width="800">
 </p>
 
 ---
@@ -160,7 +160,7 @@ carrito-robotico-educativo-ESPOL/
 │   └── carrito_robotico.ino
 │
 ├── diagramas/
-│   └── diagrama_conexiones.png
+│   └── DiagramaDeConexiones.jpg
 │
 ├── documentacion/
 │   └── Manual_Operacion_Carrito_Robotico.pdf
@@ -248,5 +248,7 @@ For detailed information about the operation, connections, programming, and educ
 ---
 
 <p align="center">
+  Developed as part of my Community Practices at ESPOL.
+</p>
   Developed as part of my Community Practices at ESPOL.
 </p>
